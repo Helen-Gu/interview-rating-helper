@@ -1,0 +1,125 @@
+###############################################################################
+
+# Infrastructure as code, Pipeline as code... What about interview as code?
+
+###############################################################################
+
+# Usage:
+
+#        Add a type of question like [1-9]. <question> | Tips for interviewer
+
+#        Add a question like [1-9].[1-9] <question>
+
+#        New Question entered in an interview will be added this file automatically.
+
+#        Open a BASH and run ./interview.sh screening.txt or
+
+#                            ./interview.sh 2ndround.txt.
+
+#        Script will prompt you to select type of question, question, comment for
+
+# a question and score for a question.
+
+#
+
+# Interview Score System:
+
+#        5 - Exceeds Requirements;
+
+#        4 - Meets and Exceeds some Requirements;
+
+#        3 - Meets Requirements;
+
+#        2 - Meets some Requirements;
+
+#        1 - Does not Meet Requirements;"
+
+#------------------------------------------------------------------------------
+
+# TDBG Guiding Principles when assessing candidates:
+
+#                  Deliver Legendary Customer Experience
+
+#                  Be an Extraordinary Place to Work
+
+#                  Operate with Excellence
+
+#                  Understand Our Business
+
+#                  Take Only Risks We Understand and Can Manage
+
+#                  Increase Shareholder Value
+
+#------------------------------------------------------------------------------
+
+1. Introduction | Ask the candidate introduce his / her background
+
+1.1 Give us an overview of your relevant work experience, responsibilities and your major achievements.
+
+1.2 What interests you about this opportunity and how has your experience prepared your for it?
+
+#------------------------------------------------------------------------------
+
+2. Behavioral | Inform the candidate these are behavioral questions. Candidates requests to identify the Circumstance they were in, the Action took and the Result
+
+2.1 (Learning) Tell me about a situation in which you had to adjust to changes over which you have no control.  How did you handle it?
+
+2.2 (Time Management) Describe a time when your workload seemed overwhelming.  How did you organize/prioritize the workload? How do you keep your manager aware of your daily activities?
+
+2.3 (Problem resolving) Tell us about the most complex problem you have faced. What was your approach in identifying the main issues? How do you resolve and outcome?
+
+2.4 (Leadership) Tell us about a time when you had demonstrated leadership? what is the situation and outcome?
+
+#------------------------------------------------------------------------------
+
+3. DevOps | Check Infra as code, automation mentioned
+
+3.1 What version control systems have you used in the past? Which ones do you prefer and why? What branching strategy are you using?
+
+3.2 What kind of DevOps tools have you used in the past? Which ones do you prefer and why?
+
+3.3 Can you explain the difference between continuous integration, continuous delivery and continuous deployment?
+
+3.4 What Jenkins plugin used for your CI / CD pipelines?
+
+3.5 Static inventory vs Dynamic inventory in Ansible?
+
+3.6 How do you set up Jenkins?
+
+#------------------------------------------------------------------------------
+
+4. Cloud and AWS | Check AWS experience and trouble shooting skills
+
+4.1 Explain the differences between IaaS, PaaS and SaaS architectures in cloud context (any cloud)?
+
+4.2 What AWS service are you going to use if you are required to build a project like AWS console?
+
+4.3 An EC2 instance cannot be added to auto-scaling group. What is the cause?
+
+#------------------------------------------------------------------------------
+
+5. CS / Networking / Security | Check fundamental knowledge and experience
+
+5.1 How do you write a multi-processes shell script?
+
+5.2 Process vs Thread. What web applications are designed as multi-thread applications instead of multi-processes application?
+
+5.3 How does SSH work? What is SSL handshake?
+
+5.4 If one IP was assigned to two different servers, what are going to happen? How do you resolve the problem?
+
+#------------------------------------------------------------------------------
+
+6. Closing Questions / Closing Statements | comment and score not required. Control-C to exit
+
+6.1 Is there anything you’d like to discuss that I haven’t given you an opportunity to mention?
+
+6.2 Do you have any questions from me about this opportunity or the organization?
+
+6.3 Let the candidate know when they will be contacted with respect to whether or not they are the successful candidate.
+
+6.4 Thank the candidate for the time they’ve spent meeting with you and escort them to the door (outside of the secured area).
+
+#------------------------------------------------------------------------------
+
+ 
